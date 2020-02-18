@@ -1,4 +1,4 @@
-Hello Prof. Ben Amor and Simon!
+Conways Game Of Life, made by Sam Millar
 
 This is my extra credit project for CSE 355. 
 
@@ -14,13 +14,3 @@ It also follows the three requirements for a cellular automaton:
 1. homogeneity: all cell states are updated by the same set of rules;
 2. parallelism: all cell states are updated simultaneously;
 3. locality: the rules are local in nature.
-
-Hope you guys have a good rest of your semester and summer!
-
-Thanks,
-
-Sam Millar
-
-1210832113
-
-Thank you for watching!!!!!!! :)
